@@ -1,6 +1,6 @@
 # Rebuilding the Site
 ## Why Does it need rebuilt
-There are several reasons the website should be refreshed.  As we make a larger and larger recruitment drives to bring our student body back to previous levels, our website does not tell the story of our school.  It does not visually communicate creativity, innovation, or inclusiveness.  There are blocks of text that do speak to our message, but a lot of it gets lost in other large blocks of text.  It is not currently the effective recruitment tool that it could be.   
+There are several reasons the website should be refreshed.  As we make larger and larger recruitment drives to bring our student body back to previous levels, our website does not tell the story of our school.  It does not visually communicate creativity, innovation, or inclusiveness.  There are blocks of text that do speak to our message, but a lot of it gets lost in other large blocks of text.  It is not currently the effective recruitment tool that it could be.   
 
 It was also designed and built prior to smart phones being the primary device our students and families view the website on.  Our website does not meet current UI / UX design standards and as such, it is very difficult to use on a cell phone.  There are also significant technological issues that have been found using Google's Lighthouse web developer tools. Those are outlined below. The effect of the technological issues and the UI / UX design issues is that we have a website that is slow, doesn't meet accessibility standards, does not work well on smart phones, and the content is difficult to engage with. 
 
@@ -28,3 +28,9 @@ It was also designed and built prior to smart phones being the primary device ou
 
 
 ## The Website's Story
+### North Star
+Inclusive, Student centered, Practical, Whole person Education
+### Brand DNA
+Every student deserves a opportunity to recieve a quality education. Through an inclusive, arts-based approach to education, we provide students who struggle in traditional high schools a place to learn in their own way and to show that learning in a way that is more true to the individual. The proven success of this approach is shown by A3 having the highest grauation rate in SPS, and above average rates of college attendance. Our approach seeks to build confience and practical skills for our student’s futures.   
+### Mission Statement
+The Springfield Academy of Arts and Academics is a small, four-year magnet high school of choice. We serve students who seek a non-traditional education and who wish to be part of a diverse and supportive community. A3 staff, students, and families are committed to developing a collaborative learning environment through programming that includes project based learning, integrated content, and the arts. To help students self-actualize future success, our school promotes acceptance, reflection, and perseverance.

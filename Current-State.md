@@ -21,7 +21,6 @@ http://a3school.org/about-us/
 
 http://a3school.org/staff/
 
-site:http://a3school.org/ 250 pages indexed by google (probably need to cut some
 
 ## Major Issues
 
@@ -29,3 +28,4 @@ site:http://a3school.org/ 250 pages indexed by google (probably need to cut some
 * Not mobile responsive
 * Not https
 * No caching
+* Many indexed pages not organized or maintianed. site:http://a3school.org/ 250 pages indexed by google

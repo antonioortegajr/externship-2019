@@ -7,7 +7,7 @@ This repository contains docuemntation and resources for the 2019 externiship at
 
 ## Goals
 
-* Research and indenify all needs for a site rebuild ([See REbuild README](/Rebuild.md)]).
+* Research and indenify all needs for a site rebuild, [See REbuild README](/Rebuild.md)] for details.
 
 * Mock up page(or pages) for new site design
 

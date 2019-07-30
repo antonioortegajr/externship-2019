@@ -17,4 +17,11 @@ http://a3school.org/application/
 http://a3school.org/about-us/
 http://a3school.org/staff/
 
-site:http://a3school.org/ 250 pages indexed by google (probably need to cut some)
+site:http://a3school.org/ 250 pages indexed by google (probably need to cut some
+
+## Major Issues
+
+* Slow page load time
+* Not mobile responsive
+* Not https
+* No caching

@@ -13,5 +13,5 @@ This repository contains docuemntation and resources for the 2019 externiship at
 
 * Make back end technical recommendations for site
 
-* Understand and docuemtn how google's [https://developers.google.com/web/tools/lighthouse/](lighthouse) audits will help guie a re build
+* Understand and docuemtn how google's [lighthouse](https://developers.google.com/web/tools/lighthouse/) audits will help guie a re build
 

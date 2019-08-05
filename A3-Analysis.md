@@ -45,3 +45,6 @@ With that being said several of our issues are fairly easy to correct.
 ## Search Engine Optimization (SEO)
 We score reasonably well in SEO (82).  SEO is designing and presenting information in a way that is accessible by google and other search engines.  This is the basis for new viewers to find our site. We do a good job of this alreay, but have a few areas of opportunity. The largest areas of opportunity are also accessibility concerns. Specifically adding alt tags to make images searchable by content, and having descriptive links so the links are also searchable. 
 
+## Summary
+
+While there is some good in our website, I do not believe it is serving the school in the ways we need it to. We need to develop a site that both tells the story of A3 and generates excitement within potential students.  It also needs to be accessible to all potential students and families.  This is where our greatest areas of opporutnity are. We need a site that will recruit new students.  To do that it needs to be accessible, creative, and fun.  I believe this is what our school tries to be.  Now it is time for our website to reflect who we are. 
